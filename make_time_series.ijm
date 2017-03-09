@@ -1,6 +1,5 @@
 setBatchMode(true);
 path = getDirectory("Choose a Directory");
-//path = "/Users/heesoo/Desktop/Sarah/MB005B/D6/F3/";
 path2 = path + "All_Parts" + File.separator;
 newDir = path + "New_Stack" + File.separator;
 newDir2 = path + "New_Stack_reg" + File.separator;
