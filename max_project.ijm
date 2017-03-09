@@ -1,6 +1,5 @@
 setBatchMode(true);
 
-//path = "/Users/heesoo/Desktop/Sarah/MB005B/D6/F3/";
 path = getDirectory("Choose a Directory");
 
 path2 = path + "New_Stack_reg/";
